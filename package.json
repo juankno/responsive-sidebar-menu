@@ -1,0 +1,12 @@
+{
+  "name": "sidebar-menu",
+  "version": "1.0.0",
+  "description": "Responsive Sidebar Menu Using HTML CSS and JAVASCRIPT ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["sidebar", "menu", "Responsive", "Sidebar menu"],
+  "author": "",
+  "license": "ISC"
+}
